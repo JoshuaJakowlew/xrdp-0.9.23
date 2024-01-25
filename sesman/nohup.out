@@ -1,0 +1,30 @@
+[2024-01-24 18:15:13.385] [info] waiting for OS to start responding to our queries...
+[2024-01-24 18:15:13.385] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:14.385] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:15.385] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:16.385] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:17.386] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:18.386] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:19.386] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:20.386] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:21.386] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:22.386] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:23.386] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:23.386] [info] got a response from OS, continuing...
+[2024-01-24 18:15:23.388] [critical] SDL init failed: No available video device
+[2024-01-24 18:15:23.388] [info] All done
+[2024-01-24 18:15:33.834] [info] waiting for OS to start responding to our queries...
+[2024-01-24 18:15:33.834] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:34.834] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:35.834] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:36.834] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:37.834] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:38.834] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:39.834] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:40.834] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:41.835] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:42.835] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:43.835] [error] enumerate resolutions: could not query active display
+[2024-01-24 18:15:43.835] [info] got a response from OS, continuing...
+[2024-01-24 18:15:43.836] [critical] SDL init failed: No available video device
+[2024-01-24 18:15:43.836] [info] All done
